@@ -11,7 +11,6 @@
 .banner-texto{
     font-weight: 500;
     margin: 1em 0;
-
 }
 .banner-pesquisa{
     background-color: transparent;
@@ -19,7 +18,14 @@
     color: var(--branco);
     border-radius: 24px;
     padding: 1em;
-    
+    width: 100%;
 }
-  
-
+.banner-pesquisa::placeholder{
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--branco);
+    background: url("../img/Lupa.png") no-repeat;
+    background-position: 1em;
+}
