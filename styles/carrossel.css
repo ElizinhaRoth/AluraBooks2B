@@ -40,3 +40,22 @@
     color: var(--laranja);
     font-weight: 700;
 }
+.descricao-titulo-livro{
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+.descricao-texto{
+    font-size: 14px;
+}
+.botoes-item{
+    margin: 0 0.5em;
+}
+.botoes-ancora{
+    background-color: var(--laranja);
+    padding: 1em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+}
