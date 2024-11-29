@@ -3,7 +3,7 @@
     text-align: center;
     padding: 1em 0;
 }
-.topicos-titulo{
+.topico-titulo{
     color: var(--branco);
     font-weight: 300;
     margin-bottom: 1em;
@@ -13,7 +13,7 @@
     flex-wrap: wrap;
     justify-content: center;
 }
-.topicos-item{
+.topico-item{
     margin: 2em 0.5em;
 }
 .topicos-link{
